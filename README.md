@@ -20,3 +20,7 @@
 [6] "Корм Whiskas говядина/кролик канапе новогодний 85г Россия"   
 Пример выхода: [1 2] [3 4 5] 6 (см. вложенный файл). 
 Файл: test_task_NLP.json. 
+
+
+**Другие решения:**
+Решение от одного из DS Accenture (для задания 1): https://github.com/pdudukin/Regression-Guide/blob/master/Regression%20Guide.ipynb
