@@ -23,4 +23,5 @@
 
 
 **Другие решения:**
-Решение от одного из DS Accenture (для задания 1): https://github.com/pdudukin/Regression-Guide/blob/master/Regression%20Guide.ipynb
+Решение от одного из DS Accenture (для задания 1):  
+https://github.com/pdudukin/Regression-Guide/blob/master/Regression%20Guide.ipynb
